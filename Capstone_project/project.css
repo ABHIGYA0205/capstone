@@ -197,7 +197,14 @@ h2:hover{
     font-size: 20px;
     padding: 10px;
     margin: 5px;
+    transition: transform 0.3s ease-in-out;
 }
+.input:hover{
+    cursor: pointer;
+    background-color: black;
+    transform: scale(1.1);
+}
+
 
 .btn{
     margin: 20px auto;
