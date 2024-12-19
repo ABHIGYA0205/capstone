@@ -343,7 +343,7 @@ h2:hover{
         line-height: 36px;
     }
     #img1 {
-        width: 100%;
+        width: 90%;
     }
     #images {
         grid-template-columns: 1fr;
